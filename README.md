@@ -2,7 +2,7 @@
 The R scripts detmodel_EDfig5D.R, parscan_EDfig5B.R, and plotting_EDfig5.R, contain the code used to generate extended data figure 5 in the paper 
 titled "Directing an evolutionary trade-off in Salmonella via intestinal antibodies" by Diard et al, published in Nature Microbiology in 2021.
 
-The script detmodel_EDfig5D.R contains code to run a deterministi simulations to generate the data used for the plots in extended data figure 5D, 
+The script detmodel_EDfig5D.R contains code to run a deterministic simulations to generate the data used for the plots in extended data figure 5D, 
 and saves this data in csv files. 
 
 The script parscan_EDfig5B.R contains code to run deteministic simulations to generate the data used for the plots in extended data figures 5B and C, 
